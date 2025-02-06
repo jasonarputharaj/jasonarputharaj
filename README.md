@@ -1,16 +1,16 @@
-## Hi there 👋
+🚀 Welcome to My GitHub!
+👋 About Me
+Hi! I'm jason, an aspiring Electronics & VLSI Engineer with a passion for digital design, FPGA programming, and ASIC development. I enjoy working on hardware projects, RTL design, and verification methodologies.
 
-<!--
-**jasonarputharaj/jasonarputharaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 Interests:
 
-Here are some ideas to get you started:
+Digital & Analog Circuit Design
+FPGA & ASIC Development
+SystemVerilog & UVM
+High-Speed VLSI Design
+AI Hardware Acceleration
+📚 Currently Learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+RISC-V Architecture
+Advanced ASIC Design Flows
+DFT & Physical Design Concepts
